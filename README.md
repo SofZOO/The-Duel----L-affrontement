@@ -1,4 +1,4 @@
-# The-Duel----L-affrontement
+# The Game:Le Duel
 
    Présentation du jeu
 
